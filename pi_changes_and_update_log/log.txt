@@ -1,3 +1,6 @@
 31/10/2022 - Initial Setup.  Updated.  Basic Setup
 03/11/2022 - Set up staging folder on desktop.  Downloaded Gitpython  >> sudo apt install python3-git
-           - Adjustment to desktop appearance.  Font, Font colour, screen background, visible items on desktop and main bar colours
+           - Adjustment to desktop appearance.  Font, Font colour, screen background, visible items on desktop and                  main bar colours
+04/11/2022 - Set:
+             git config --global user.email "pablo_rose34@hotmail.com" 
+             git config --global user.name "Paul"
