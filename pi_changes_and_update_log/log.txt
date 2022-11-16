@@ -4,3 +4,4 @@
 04/11/2022 - Set:
              git config --global user.email "pablo_rose34@hotmail.com" 
              git config --global user.name "Paul"
+16/11/2022 - Installed Python package, "matplotlib" sudo apt-get install python3-matplotlib
