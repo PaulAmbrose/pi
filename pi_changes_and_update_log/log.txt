@@ -7,3 +7,4 @@
 16/11/2022 - Installed Python package, "matplotlib" sudo apt-get install python3-matplotlib
 21/11/2022 - Installed Python pyghelpers via Thonny package manager
 24/11/2022 - Ran sudo apt install libsdl2-ttf-2.0-0 to solve error on pywdgets import
+26/11/2022 - ran sudo pip3 install virtualenv >>installing python virtual environments
